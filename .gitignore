@@ -1,0 +1,4 @@
+# cache and local directories
+.idea
+venv
+*__pycache__*
